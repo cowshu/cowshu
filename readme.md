@@ -1,6 +1,6 @@
-## im cowshit also known as cowshu
+## im lee/cowshu
 
-i am a "developer". the maximum coding knowledge i know is the basics of py 3.2, and essential coding knowledge as well as a deep understanding of computer hardware and software. i aspire to be a dev, but im too fucking lazy to learn a language.
+i know nothing and i like boys
 
 ## puter 
 ~~~~
@@ -18,6 +18,4 @@ i am a "developer". the maximum coding knowledge i know is the basics of py 3.2,
 ## silly
 ~~~~
 >>> https://cowshu.carrd.co <<<
-
-copyleft cowshu 2023, no rights reserved
 ~~~~
