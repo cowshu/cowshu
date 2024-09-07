@@ -12,10 +12,3 @@ i know nothing and i like boys
 * 240gb wd green ssd
 * arch linux btw
 * Lindows 11 home
-
-~~~~
-
-## silly
-~~~~
->>> https://cowshu.carrd.co <<<
-~~~~
