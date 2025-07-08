@@ -1,7 +1,6 @@
-## im lee/cowshu
+liz!
 
-i know nothing and i like boys
-
+computer autism
 ## puter 
 ~~~~
 * asrock phantom gaming 4-CB (Z390)
